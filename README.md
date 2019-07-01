@@ -1,5 +1,5 @@
 # Nginx
-Nginx - automated server down configuration - Health check script
+Nginx - Health check script - Automated server down information & configuration
 
 
 The health check script is used to check whether the upstream servers are up and running, this script will run on a continous loop and need to be configured after system startup.
